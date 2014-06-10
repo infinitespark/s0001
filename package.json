@@ -1,0 +1,27 @@
+{
+  "name": "sinapse",
+  "version": "0.0.1",
+  "private": true,
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infinitespark/s0001.git"
+  },
+  "keywords": [
+    "gap"
+  ],
+  "author": "Guilherme Pires",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infinitespark/s0001/issues"
+  },
+  "homepage": "https://github.com/infinitespark/s0001",
+  "dependencies": {
+    "express": "~4.4.2",
+    "restify": "~2.8.1",
+    "mongoose": "~3.8.12"
+  },
+  "engines": {
+      "node": "0.10.x"
+    }
+}
